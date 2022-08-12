@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Welcome to Employeewage program.");
 
-            CheckEmployee checkEmployee = new CheckEmployee();
+            CheckEmployeePartTime checkEmployee = new CheckEmployeePartTime();
             checkEmployee.CheckEmployeeAttendence();
         }
     }
