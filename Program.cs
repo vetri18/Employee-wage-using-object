@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Welcome to Employeewage program.");
 
-            UsingSwitchMonth usingSwitch = new UsingSwitchMonth();
+            UsingSwitchMethod usingSwitch = new UsingSwitchMethod();
             usingSwitch.CheckEmployeeAttendence();
         }
     }
