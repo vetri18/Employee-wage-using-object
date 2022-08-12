@@ -6,8 +6,8 @@
         {
             Console.WriteLine("Welcome to Employeewage program.");
 
-            CheckEmployeePartTime checkEmployee = new CheckEmployeePartTime();
-            checkEmployee.CheckEmployeeAttendence();
+            UsingSwitch usingSwitch = new UsingSwitch();
+            usingSwitch.CheckEmployeeAttendence();
         }
     }
 }
