@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Welcome to Employeewage program.");
 
-            UsingSwitchMethod usingSwitch = new UsingSwitchMethod();
+            Refractor usingSwitch = new Refractor();
             usingSwitch.CheckEmployeeAttendence();
         }
     }
