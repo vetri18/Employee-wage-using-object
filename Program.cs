@@ -1,4 +1,4 @@
-﻿namespace EmployeeWage
+namespace EmployeeWage
 {
     class Program
     {
